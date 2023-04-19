@@ -1,0 +1,164 @@
+.num{
+  margin: auto;
+  width: 37.5vh;
+  height: 48.5vh;
+  border: 1px solid black;
+  margin-top: 30vh;
+  margin-left: 38%;
+  background-color:#101116;
+  border-radius: 50px;
+}
+.text{
+  width: 36.5vh;
+  color: black ;
+  height: 8vh;
+ text-align: right;
+ outline: none;
+ border: solid #101116;
+ font-size: x-large;
+ border-radius: 50px;
+ text-align: center;
+ font-size: 30px;
+}
+.nil{
+  width: 8vh;
+  height: 8vh;
+  margin-left: 15px;
+  border-radius:  100px;
+}
+.nil1{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+  
+}
+.nil2{
+  width: 8vh;
+  height: 8vh;
+ 
+  border-radius:  100px;
+ 
+}
+.nil3{
+  width: 8vh;
+  height: 8vh;
+  
+  border-radius:  100px;
+}
+.nol{
+  width: 8vh;
+  height: 8vh;
+ 
+  border-radius:  100px;
+}
+.nol1{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+ 
+}
+.nol2{
+  width: 8vh;
+  height: 8vh;
+  
+  border-radius:  100px;
+}
+.nol3{
+  width: 8vh;
+  height: 8vh;
+  
+
+  border-radius:  100px;
+}
+.wer{
+  width: 8vh;
+  height: 8vh;
+ 
+  border-radius:  100px;
+}
+.wer1{
+  width: 8vh;
+  height: 8vh;
+ 
+  border-radius:  100px;
+}
+.wer2{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+  
+}
+.wer3{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+ 
+}
+
+.war1{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+ 
+}
+
+.war3{
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+}
+#clear{
+  width: 16vh;
+  height: 8vh;
+  margin-left: 15px;
+  border-radius:  100px;
+}
+.result{
+  grid-row: 5;
+  grid-column: 3/5;
+  color: #101116;
+  width: 8vh;
+  height: 8vh;
+  border-radius:  100px;
+}
+.lop{
+  margin-left: 15px;
+}
+.nkl{
+
+  margin-left: 15px;
+}
+.jik{
+  margin-left: 15px;
+ 
+}
+#backspace{
+  width: 8vh;
+  height: 8vh;
+   border-radius:  100px;
+}
+.result{
+  background-color: grey;
+}
+#ggg{
+  background-color: grey;
+}
+.wer3{
+  background-color: orange;
+}
+.nol3{
+  background-color: orange;
+}
+.nil3{
+  background-color: orange;
+}
+.war3{
+  background-color: orange;
+}
+#backspace{
+  background-color: grey;
+}
+#clear{
+  background-color: grey;
+}
+
